@@ -1,0 +1,16 @@
+<launch>
+	<node
+		name="sbw_send"
+		pkg="dbw"
+		type="sbw_send"
+		output = "screen"
+		ns="sim2"
+	/>
+	<node
+		name="gnss"
+		pkg="dbw"
+		type="gnss"
+		output = "screen"
+		ns="sim1"
+	/>
+</launch>

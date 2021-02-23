@@ -1,0 +1,10 @@
+prefix=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled
+libdir=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/Interfaces
+
+Name: IPOPT
+Description: Interior Point Optimizer
+URL: https://projects.coin-or.org/Ipopt
+Version: 3.12.11
+Libs: ${libdir}/libipopt.la -llapack -lblas -lm  -ldl
+Cflags: -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/Interfaces -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/Common -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/LinAlg -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/Algorithm -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/contrib/CGPenalty -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/contrib/LinearSolverLoader -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/Ipopt/src/Common
+Requires: coinmumps 

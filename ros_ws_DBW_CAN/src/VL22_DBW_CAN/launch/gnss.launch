@@ -1,0 +1,8 @@
+<launch>
+	<node 
+	pkg="gnss_msg" 
+	name="gnss_msg" 
+	type="GNSSreceive" 
+	output="screen"
+	/>
+</launch>
