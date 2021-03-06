@@ -1,9 +1,0 @@
-prefix=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled
-libdir=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/ThirdParty/ASL
-
-Name: ASL
-Description: AMPL Solver Library
-URL: https://projects.coin-or.org/BuildTools
-Version: 1.4.1
-Libs: ${libdir}/libcoinasl.la -lm -ldl 
-Cflags: -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/ThirdParty/ASL -I/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/ThirdParty/ASL/solvers

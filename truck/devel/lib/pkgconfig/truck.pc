@@ -1,8 +1,0 @@
-prefix=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/devel
-
-Name: truck
-Description: Description of truck
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

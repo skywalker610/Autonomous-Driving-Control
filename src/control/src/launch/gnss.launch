@@ -1,0 +1,8 @@
+<launch>
+	<node
+	pkg="dbw"
+	name="dbw"  
+	type="truck_node" 
+	output="screen"
+	/>
+</launch>

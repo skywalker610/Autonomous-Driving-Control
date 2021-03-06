@@ -1,2 +1,0 @@
-.
--DCATKIN_DEVEL_PREFIX=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck_calib/devel -DCMAKE_INSTALL_PREFIX=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck_calib/install -G Unix Makefiles

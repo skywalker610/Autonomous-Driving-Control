@@ -1,1 +1,0 @@
-            -L/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck/Ipopt-3.12.11-compiled/lib -lipopt -llapack -lblas -ldl -lcoinmumps -lblas             -lstdc++ -lm

@@ -1,8 +1,0 @@
-prefix=/home/qiyang-isuzu/Desktop/ISUZU/0118/0118/truck_calib/devel
-
-Name: truck_calib
-Description: Description of truck_calib
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="dbw" name="dbw_gnss" type="gnss" output="screen"/>
+	<node pkg="dbw" name="dbw_sbw" type="sbw_send" />
+	<node pkg="dbw" name="dbw_control" type="truck_node"/>
+</launch>

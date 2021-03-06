@@ -1,1 +1,0 @@
-- to record gps data with a constant step size
