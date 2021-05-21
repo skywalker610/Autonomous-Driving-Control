@@ -1,0 +1,8 @@
+prefix=/home/qiyang-isuzu/Desktop/ISUZU/test/devel
+
+Name: hellocm_msgs
+Description: Description of hellocm_msgs
+Version: 0.1.0
+Cflags: -I/home/qiyang-isuzu/Desktop/ISUZU/test/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

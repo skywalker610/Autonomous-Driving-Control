@@ -1,0 +1,8 @@
+prefix=/home/qiyang-isuzu/Desktop/ISUZU/test/install
+
+Name: dbw
+Description: Description of dbw
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime hellocm_msgs gps_common_msgs

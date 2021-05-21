@@ -1,0 +1,8 @@
+prefix=/home/qiyang-isuzu/Desktop/ISUZU/test/devel
+
+Name: gps_common_msgs
+Description: Description of gps_common_msgs
+Version: 0.3.2
+Cflags: -I/home/qiyang-isuzu/Desktop/ISUZU/test/devel/include -I/home/qiyang-isuzu/Desktop/ISUZU/test/src/gps_common_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime message_filters nav_msgs roscpp sensor_msgs std_msgs rospy

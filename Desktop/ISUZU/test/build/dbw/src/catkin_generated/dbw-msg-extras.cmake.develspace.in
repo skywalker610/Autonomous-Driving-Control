@@ -1,0 +1,2 @@
+set(dbw_MESSAGE_FILES "/home/qiyang-isuzu/Desktop/ISUZU/test/src/dbw/src/msg/Num.msg;/home/qiyang-isuzu/Desktop/ISUZU/test/src/dbw/src/msg/FloatArray.msg;/home/qiyang-isuzu/Desktop/ISUZU/test/src/dbw/src/msg/GPSFix.msg;/home/qiyang-isuzu/Desktop/ISUZU/test/src/dbw/src/msg/GPSStatus.msg;/home/qiyang-isuzu/Desktop/ISUZU/test/src/dbw/src/msg/SteerCmd.msg")
+set(dbw_SERVICE_FILES "")

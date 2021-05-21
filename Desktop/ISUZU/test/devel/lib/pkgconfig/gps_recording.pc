@@ -1,0 +1,8 @@
+prefix=/home/qiyang-isuzu/Desktop/ISUZU/test/devel
+
+Name: gps_recording
+Description: Description of gps_recording
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+dbw:gps_common_msgs:gps_recording:hellocm_msgs
+-DCATKIN_DEVEL_PREFIX=/home/qiyang-isuzu/Desktop/ISUZU/test/devel -DCMAKE_INSTALL_PREFIX=/home/qiyang-isuzu/Desktop/ISUZU/test/install -G Unix Makefiles
